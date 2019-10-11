@@ -1,3 +1,3 @@
-# Purrfect-Match-LP
+# Paw-some-Match-LP
 
 Landing Page hosted [here](https://monkeydluffy69.github.io/Purrfect-Match-LP/index.html).
