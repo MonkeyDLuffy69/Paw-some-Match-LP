@@ -1,0 +1,112 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1415369629372-26f2fe60c467?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Lato', sans-serif;
+    height: 100vh;
+    color: white;
+}
+
+
+.container{
+    padding-top: 20%;
+}
+
+
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+}
+
+h1,h3{
+    color: whitesmoke;
+    font-weight: 700;
+    text-shadow: 0px 3px 4px rgba(0, 0, 0, 0.4),
+                 0px 8px 13px rgba(0, 0, 0, 0.1),
+                 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+h1{
+    font-size: 4em;
+}
+
+
+hr{
+    width: 400px;
+    border-top: 1px solid whitesmoke;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.btn{
+    background-color: azure; 
+    color: black;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: url("Assets/Gaming.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Montserrat';
+}
+
+.navbar{
+    background-color: #03164a;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.container{
+    height: 94%;
+    display: flex;
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    color: #c71212;
+    font-weight: 800;
+}
+
+button{
+
+    opacity: 0.79;
+    padding: 0 !important;
+    background-color: #03164a !important;
+    color: #c71212 !important;
+    border-radius: 80px !important;    
+    font-size: 4vw !important;
+} */
